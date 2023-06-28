@@ -1,0 +1,11 @@
+1.建立專案(package.json)
+
+2.安裝工具(express, express-handlebars)
+
+3.app.js載入工具(require)
+
+4.架設路由、樣板引擎(main、index)
+
+5.載入bootstrap(public)
+
+6.建立靜態頁面
