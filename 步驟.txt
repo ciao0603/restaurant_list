@@ -12,3 +12,4 @@
 
 7. 串接資料製成動態頁面(.json > index樣板 > render)
 
+8. 設定簡介路由'/restaurants/:restaurant_id'
